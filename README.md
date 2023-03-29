@@ -1,3 +1,5 @@
+
+This is code for full end to end development from UI in angular to backend in .NetCore+ EF core
 # UICard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
