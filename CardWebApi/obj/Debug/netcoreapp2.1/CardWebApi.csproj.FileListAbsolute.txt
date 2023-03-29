@@ -1,0 +1,14 @@
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\bin\Debug\netcoreapp2.1\CardWebApi.deps.json
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\bin\Debug\netcoreapp2.1\CardWebApi.runtimeconfig.json
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\bin\Debug\netcoreapp2.1\CardWebApi.runtimeconfig.dev.json
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\bin\Debug\netcoreapp2.1\CardWebApi.dll
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\bin\Debug\netcoreapp2.1\CardWebApi.pdb
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.csproj.CoreCompileInputs.cache
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.RazorAssemblyInfo.cache
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.RazorAssemblyInfo.cs
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.AssemblyInfoInputs.cache
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.AssemblyInfo.cs
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.RazorTargetAssemblyInfo.cache
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.dll
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.pdb
+C:\Learn Angular\AngularNetCore\API\NetCoreWebAPI\CardWebApi\obj\Debug\netcoreapp2.1\CardWebApi.csprojAssemblyReference.cache

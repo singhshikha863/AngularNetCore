@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWebAPI", "NetCoreWebAPI\NetCoreWebAPI.csproj", "{A469B21F-FE5C-4B97-922C-17E588839093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardWebApi", "CardWebApi\CardWebApi.csproj", "{5028E852-1651-42B2-84F5-AAF3182DD331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A469B21F-FE5C-4B97-922C-17E588839093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A469B21F-FE5C-4B97-922C-17E588839093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A469B21F-FE5C-4B97-922C-17E588839093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A469B21F-FE5C-4B97-922C-17E588839093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5028E852-1651-42B2-84F5-AAF3182DD331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5028E852-1651-42B2-84F5-AAF3182DD331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5028E852-1651-42B2-84F5-AAF3182DD331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5028E852-1651-42B2-84F5-AAF3182DD331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65BBD852-EBD9-469A-856C-BC08A5596DC0}
+	EndGlobalSection
+EndGlobal
